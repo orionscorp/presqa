@@ -1,0 +1,17 @@
+.detail-toggle {
+  display: none;
+  /* left: -100%; */
+  /* background-color: black; */
+}
+
+.detail-container {
+  position: absolute;
+  background-color: black;
+  padding: 10px;
+  top: -100%;
+  z-index: 1;
+}
+
+.table-responsive {
+  overflow-x: visible;
+}

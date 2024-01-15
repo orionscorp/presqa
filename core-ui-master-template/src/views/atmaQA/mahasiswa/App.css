@@ -1,0 +1,21 @@
+.wrapper-class {
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.editor-class {
+  background-color: #fff;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+}
+
+div.preview {
+  border: 1px #ccc;
+  border-style: groove;
+  background-color: #d8dbe0;
+  font: small courier, monospace black;
+  padding: 5px;
+  overflow: auto;
+}

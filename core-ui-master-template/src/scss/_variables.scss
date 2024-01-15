@@ -1,0 +1,26 @@
+// Variable overrides
+@import "~@coreui/coreui/scss/coreui.scss";
+
+.c-sidebar-nav-item:hover {
+  background-color: #6a85b0 !important;
+}
+
+.c-sidebar-nav-dropdown-toggle:hover {
+  background-color: #6a85b0 !important;
+}
+
+.c-sidebar-nav-link:hover {
+  background-color: #6a85b0 !important;
+}
+
+.dropdown-item:focus {
+  background-color: #d6d2d2 !important;
+}
+
+.dropdown-item:active {
+  background-color: #d6d2d2 !important;
+}
+
+.c-sidebar-nav-link.c-active {
+  background-color: #6a85b0 !important;
+}
